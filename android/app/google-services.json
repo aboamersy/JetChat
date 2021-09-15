@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281707072510",
+    "project_id": "pinky-chat-d442e",
+    "storage_bucket": "pinky-chat-d442e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281707072510:android:6f36b93815c2be91578eaf",
+        "android_client_info": {
+          "package_name": "co.sydev.pink_winky_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281707072510-0ktfhv6kd1ufc63r2cej03dsrcdj4rnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWnTNK8I5QnQueClp5GXdzD7NThJFwFDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281707072510-0ktfhv6kd1ufc63r2cej03dsrcdj4rnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
